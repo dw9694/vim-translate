@@ -1,5 +1,5 @@
 func! _Translate()
-python3 << EOF
+py3 << EOF
 import vim
 from googletrans import Translator
 
