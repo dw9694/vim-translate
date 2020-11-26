@@ -10,5 +10,5 @@ Plugin 'dw9694/vim-translate'
 * Install dependency
 
 ```
-pip install googletrans
+pip install googletrans-temp
 ```
